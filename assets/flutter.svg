@@ -1,0 +1,21 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#47C5FB;}
+	.st1{fill:#00569E;}
+	.st2{fill:#00B5F8;}
+	.st3{fill:url(#SVGID_1_);fill-opacity:0.8;}
+</style>
+<g>
+	<polygon class="st0" points="47.6,0 7.8,39.8 20.1,52.2 72.2,0 	"/>
+	<polygon class="st0" points="47.3,36.7 26,58 38.4,70.6 50.7,58.3 72.2,36.7 	"/>
+	<polygon class="st1" points="38.4,70.6 47.7,80 72.2,80 50.7,58.3 	"/>
+	<polygon class="st2" points="25.9,58.2 38.2,45.9 50.7,58.3 38.4,70.6 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-36.0666" y1="118.5819" x2="-35.885" y2="118.5165" gradientTransform="matrix(44.5891 0 0 -44.5901 1646.7496 5350.6035)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st3" points="38.4,70.6 48.6,67.2 49.6,59.3 	"/>
+</g>
+</svg>
